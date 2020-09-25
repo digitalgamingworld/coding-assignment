@@ -15,7 +15,7 @@ This is part of our interview process.  I've also mentioned some instructions to
    - You can use fetch API or any other promise based HTTP client.
    - User Interface is upto you how you design.
    - Onclick any contact number - show all details in different route. (ex: /JohnDoe/:id)
-   - Provide Dark/Light Mode for the app which simple. but it's an optional.
+   - Provide Dark/Light Mode for the app which simple. not mandatory.
 3. Do not create class components, should be functional components only.
 4. Use latest React Hooks like UseState, UseEffect, ContextAPI.
 5. Once you done with assignment please update your repo link here, under repo section with your name and number. please refer provided example.
